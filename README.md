@@ -1,6 +1,6 @@
 ## 🌍 Travel With Dennisrmnk
 
-![Project Preview](assets/screenshots/homepage-desktop.png)
+![Project Preview](snap-1.png) ![Project Preview](snap-2.png)
 
 **Responsive travel photography website** showcasing original photos and stories from my journey through **Namibia**.
 
@@ -16,10 +16,6 @@ Built to demonstrate clean front-end structure, interactive UI behaviour, and re
 - jQuery Poptrox (image gallery/lightbox)
 
 ---
-
-
-
-![Mobile Preview](assets/screenshots/mobile-view.png)
 
 ## ⚡ At a Glance
 - 📸 I took all the photos displayed during my travels in Namibia
